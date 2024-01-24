@@ -14,9 +14,6 @@ const NavBar = () => {
                 <li className="nav-item me-5">
                     <a className="nav-link text-dark fs-5" href="#">Nosotros</a>
                 </li>
-                <li className="nav-item my-2 ms-auto">
-                    <CarWidget />
-                </li>
             </ul>
         </div>
 

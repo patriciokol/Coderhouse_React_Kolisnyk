@@ -7,10 +7,13 @@ const Header = () => {
         <div className="container my-3 ">
             <div className="row">
                 <div className="col-md-2">
-                    <Logo/>
+                    <Logo />
                 </div>
                 <div className="col-md-8">
-                    <NavBar/>
+                    <NavBar />
+                </div>
+                <div className="col-md-2">
+                    <CarWidget />
                 </div>
             </div>
         </div>
