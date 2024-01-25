@@ -19,8 +19,7 @@ function App() {
         <Route path="/nosotros" element={<Home />}/>
         <Route path="*" element={<ErrorPage />}/>
       </Routes>
-      <ItemListContainer greeting={"No se encontraron productos"} />
-      
+      <ItemListContainer greeting={"No se encontraron productos"} /> 
       </BrowserRouter>
     </>
   )
