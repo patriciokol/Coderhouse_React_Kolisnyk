@@ -1,6 +1,10 @@
 const ErrorPage = () => {
     return ( 
-        <h1>Esta es la pagina de error</h1>
+        <div className="container">
+            <div className="row">
+                <h1>Error!</h1>
+            </div>
+        </div>
      );
 }
  
