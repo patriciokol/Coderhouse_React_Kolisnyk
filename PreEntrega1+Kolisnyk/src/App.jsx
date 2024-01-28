@@ -4,6 +4,7 @@ import ItemListContainer from './components/ItemListContainer'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Nosotros from './components/Nosotros'
 import ErrorPage from './components/ErrorPage'
+import ItemDetailContainer from './components/ItemDetailContainer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -13,9 +14,10 @@ function App() {
       <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
-        <Route path="/zapatillas" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
-        <Route path="/ropa" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
+        <Route path="/" element={<ItemListContainer/> }/>
+        <Route path="/productos" element={<ItemListContainer/> }/>
+        <Route path="/categoria/:categoria" element={<ItemListContainer/> }/>
+        <Route path="/producto/:idProducto" element={<ItemDetailContainer/> }/>
         <Route path="/nosotros" element={<Nosotros />}/>
         <Route path="*" element={<ErrorPage />}/>
       </Routes>

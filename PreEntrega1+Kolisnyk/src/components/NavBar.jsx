@@ -7,10 +7,10 @@ const NavBar = () => {
         <div> 
             <ul className="nav justify-content-center my-4">
                 <li className="nav-item me-5">
-                    <NavLink className="nav-link text-dark fs-5 " to={"/zapatillas"}>Zapatillas</NavLink>
+                    <NavLink className="nav-link text-dark fs-5 " to={"/categoria/zapatillas"}>Zapatillas</NavLink>
                 </li>
                 <li className="nav-item me-5">
-                    <NavLink className="nav-link text-dark fs-5" to={"/ropa"}>Ropa</NavLink>
+                    <NavLink className="nav-link text-dark fs-5" to={"/categoria/ropa"}>Ropa</NavLink>
                 </li>
                 <li className="nav-item me-5">
                     <NavLink className="nav-link text-dark fs-5" to={"/nosotros"}>Nosotros</NavLink>

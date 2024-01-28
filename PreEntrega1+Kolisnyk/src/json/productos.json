@@ -1,72 +1,92 @@
 [
   {
     "id": 1,
-    "nombre": "Producto 1",
-    "descripcion": "Descripción del Producto 1",
-    "precio": "200",
-    "imagen": "url_de_imagen_1"
+    "nombre": "CAMPERA ADIDAS TIRO SUIT-UP TRACK TOP DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "100000",
+    "category": "ropa",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1145615-1200-auto?v=638366042656700000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 2,
-    "nombre": "Producto 2",
-    "descripcion": "Descripción del Producto 2",
-    "precio": "200",
-    "imagen": "url_de_imagen_2"
+    "nombre": "CAMPERA ADIDAS ORIGINALS REKIVE DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "95000",
+    "category": "ropa",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1096482-1200-auto?v=638367613264500000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 3,
-    "nombre": "Producto 3",
-    "descripcion": "Descripción del Producto 3",
-    "precio": "200",
-    "imagen": "url_de_imagen_3"
+    "nombre": "CAMPERA NIKE TECH FLEECE DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "160000",
+    "category": "ropa",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1123052-1200-auto?v=638365906289170000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 4,
-    "nombre": "Producto 4",
-    "descripcion": "Descripción del Producto 4",
-    "precio": "200",
-    "imagen": "url_de_imagen_4"
+    "nombre": "REMERA ADIDAS ORIGINALS CAMO SERIES ALLOVER PRINT TEE DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "55000",
+    "category": "ropa",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1104645-1200-auto?v=638367701533930000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 5,
-    "nombre": "Producto 5",
-    "descripcion": "Descripción del Producto 5",
-    "precio": "200",
-    "imagen": "url_de_imagen_5"
+    "nombre": "REMERA JORDAN ESSENTIALS DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "60000",
+    "category": "ropa",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1244455-1200-auto?v=638412790130570000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 6,
-    "nombre": "Producto 6",
-    "descripcion": "Descripción del Producto 6",
-    "precio": "200",
-    "imagen": "url_de_imagen_6"
+    "nombre": "ZAPATILLAS NIKE AIR MAX 1 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "21000",
+    "category": "zapatillas",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1211720-1200-auto?v=638370736986270000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 7,
-    "nombre": "Producto 7",
-    "descripcion": "Descripción del Producto 7",
-    "precio": "200",
-    "imagen": "url_de_imagen_7"
+    "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "160000",
+    "category": "zapatillas",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1225011-1200-auto?v=638382600136000000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 8,
-    "nombre": "Producto 8",
-    "descripcion": "Descripción del Producto 8",
-    "precio": "200",
-    "imagen": "url_de_imagen_8"
+    "nombre": "ZAPATILLAS NIKE AIR MAX 90 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "200000",
+    "category": "zapatillas",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1242429-1200-auto?v=638405817229500000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 9,
-    "nombre": "Producto 9",
-    "descripcion": "Descripción del Producto 9",
-    "precio": "200",
-    "imagen": "url_de_imagen_9"
+    "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 LV8 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "200000",
+    "category": "zapatillas",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1221231-1200-auto?v=638382570184300000&width=1200&height=auto&aspect=true",
+    "stock": 10
   },
   {
     "id": 10,
-    "nombre": "Producto 10",
-    "descripcion": "Descripción del Producto 10",
-    "precio": "200",
-    "imagen": "url_de_imagen_10"
+    "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "18000",
+    "category": "zapatillas",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1224966-1200-auto?v=638382599813030000&width=1200&height=auto&aspect=true",
+    "stock": 10
   }
 ]

@@ -1,6 +1,10 @@
 const Home = () => {
     return ( 
-        <h1>Esta es la home</h1>
+        <div className="container">
+            <div className="row">
+                <h1>Bajo Construccion!</h1>
+            </div>
+        </div>
      );
 }
  
