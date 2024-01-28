@@ -4,6 +4,7 @@
     "nombre": "Producto 1",
     "descripcion": "Descripción del Producto 1",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_1"
   },
   {
@@ -11,6 +12,7 @@
     "nombre": "Producto 2",
     "descripcion": "Descripción del Producto 2",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_2"
   },
   {
@@ -18,6 +20,7 @@
     "nombre": "Producto 3",
     "descripcion": "Descripción del Producto 3",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_3"
   },
   {
@@ -25,6 +28,7 @@
     "nombre": "Producto 4",
     "descripcion": "Descripción del Producto 4",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_4"
   },
   {
@@ -32,6 +36,7 @@
     "nombre": "Producto 5",
     "descripcion": "Descripción del Producto 5",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_5"
   },
   {
@@ -39,6 +44,7 @@
     "nombre": "Producto 6",
     "descripcion": "Descripción del Producto 6",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_6"
   },
   {
@@ -46,6 +52,7 @@
     "nombre": "Producto 7",
     "descripcion": "Descripción del Producto 7",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_7"
   },
   {
@@ -53,6 +60,7 @@
     "nombre": "Producto 8",
     "descripcion": "Descripción del Producto 8",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_8"
   },
   {
@@ -60,6 +68,7 @@
     "nombre": "Producto 9",
     "descripcion": "Descripción del Producto 9",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_9"
   },
   {
@@ -67,6 +76,7 @@
     "nombre": "Producto 10",
     "descripcion": "Descripción del Producto 10",
     "precio": "200",
+    "category": "",
     "imagen": "url_de_imagen_10"
   }
 ]

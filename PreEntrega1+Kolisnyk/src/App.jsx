@@ -13,9 +13,9 @@ function App() {
       <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
-        <Route path="/zapatillas" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
-        <Route path="/ropa" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
+        <Route path="/" element={<ItemListContainer/> }/>
+        <Route path="/zapatillas" element={<ItemListContainer/> }/>
+        <Route path="/ropa" element={<ItemListContainer/> }/>
         <Route path="/nosotros" element={<Nosotros />}/>
         <Route path="*" element={<ErrorPage />}/>
       </Routes>
