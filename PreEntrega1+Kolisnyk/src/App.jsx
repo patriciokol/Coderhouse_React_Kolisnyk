@@ -14,8 +14,8 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<ItemListContainer/> }/>
-        <Route path="/zapatillas" element={<ItemListContainer/> }/>
-        <Route path="/ropa" element={<ItemListContainer/> }/>
+        <Route path="/productos" element={<ItemListContainer/> }/>
+        <Route path="/categoria/:categoria" element={<ItemListContainer/> }/>
         <Route path="/nosotros" element={<Nosotros />}/>
         <Route path="*" element={<ErrorPage />}/>
       </Routes>

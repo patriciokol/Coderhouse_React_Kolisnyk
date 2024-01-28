@@ -5,7 +5,7 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "100000",
     "category": "ropa",
-    "imagen": "src/imagenesProductos/imagen1.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1145615-1200-auto?v=638366042656700000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "95000",
     "category": "ropa",
-    "imagen": "src/imagenesProductos/imagen2.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1096482-1200-auto?v=638367613264500000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "160000",
     "category": "ropa",
-    "imagen": "src/imagenesProductos/imagen3.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1123052-1200-auto?v=638365906289170000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "55000",
     "category": "ropa",
-    "imagen": "src/imagenesProductos/imagen4.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1104645-1200-auto?v=638367701533930000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "60000",
     "category": "ropa",
-    "imagen": "src/imagenesProductos/imagen5.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1244455-1200-auto?v=638412790130570000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "21000",
     "category": "zapatillas",
-    "imagen": "src/imagenesProductos/imagen6.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1211720-1200-auto?v=638370736986270000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 7,
@@ -53,15 +53,15 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "160000",
     "category": "zapatillas",
-    "imagen": "src/imagenesProductos/imagen7.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1225011-1200-auto?v=638382600136000000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 8,
     "nombre": "ZAPATILLAS NIKE AIR MAX 90 DE HOMBRE",
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "200000",
-    "category": "",
-    "imagen": "src/imagenesProductos/imagen8.jpg"
+    "category": "zapatillas",
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1242429-1200-auto?v=638405817229500000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "200000",
     "category": "zapatillas",
-    "imagen": "src/imagenesProductos/imagen9.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1221231-1200-auto?v=638382570184300000&width=1200&height=auto&aspect=true"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "18000",
     "category": "zapatillas",
-    "imagen": "src/imagenesProductos/imagen10.jpg"
+    "imagen": "https://essential.vtexassets.com/arquivos/ids/1224966-1200-auto?v=638382599813030000&width=1200&height=auto&aspect=true"
   }
 ]
