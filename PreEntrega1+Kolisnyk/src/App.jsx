@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Header from './components/Header'
 import ItemListContainer from './components/ItemListContainer'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './components/Home'
+import Nosotros from './components/Nosotros'
 import ErrorPage from './components/ErrorPage'
 
 function App() {
@@ -13,13 +13,12 @@ function App() {
       <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="/zapatillas" element={<Home />}/>
-        <Route path="/lanzamientos" element={<Home />}/>
-        <Route path="/nosotros" element={<Home />}/>
+        <Route path="/" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
+        <Route path="/zapatillas" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
+        <Route path="/ropa" element={<ItemListContainer greeting={"No se encontraron productos"} /> }/>
+        <Route path="/nosotros" element={<Nosotros />}/>
         <Route path="*" element={<ErrorPage />}/>
       </Routes>
-      <ItemListContainer greeting={"No se encontraron productos"} /> 
       </BrowserRouter>
     </>
   )
