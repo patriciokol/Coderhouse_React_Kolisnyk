@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "nombre": "Producto 1",
-    "descripcion": "Descripción del Producto 1",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_1"
+    "nombre": "CAMPERA ADIDAS TIRO SUIT-UP TRACK TOP DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "100000",
+    "category": "ropa",
+    "imagen": "src/imagenesProductos/imagen1.jpg"
   },
   {
     "id": 2,
-    "nombre": "Producto 2",
-    "descripcion": "Descripción del Producto 2",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_2"
+    "nombre": "CAMPERA ADIDAS ORIGINALS REKIVE DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "95000",
+    "category": "ropa",
+    "imagen": "src/imagenesProductos/imagen2.jpg"
   },
   {
     "id": 3,
-    "nombre": "Producto 3",
-    "descripcion": "Descripción del Producto 3",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_3"
+    "nombre": "CAMPERA NIKE TECH FLEECE DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "160000",
+    "category": "ropa",
+    "imagen": "src/imagenesProductos/imagen3.jpg"
   },
   {
     "id": 4,
-    "nombre": "Producto 4",
-    "descripcion": "Descripción del Producto 4",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_4"
+    "nombre": "REMERA ADIDAS ORIGINALS CAMO SERIES ALLOVER PRINT TEE DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "55000",
+    "category": "ropa",
+    "imagen": "src/imagenesProductos/imagen4.jpg"
   },
   {
     "id": 5,
-    "nombre": "Producto 5",
-    "descripcion": "Descripción del Producto 5",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_5"
+    "nombre": "REMERA JORDAN ESSENTIALS DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "60000",
+    "category": "ropa",
+    "imagen": "src/imagenesProductos/imagen5.jpg"
   },
   {
     "id": 6,
-    "nombre": "Producto 6",
-    "descripcion": "Descripción del Producto 6",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_6"
+    "nombre": "ZAPATILLAS NIKE AIR MAX 1 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "21000",
+    "category": "zapatillas",
+    "imagen": "src/imagenesProductos/imagen6.jpg"
   },
   {
     "id": 7,
-    "nombre": "Producto 7",
-    "descripcion": "Descripción del Producto 7",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_7"
+    "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "160000",
+    "category": "zapatillas",
+    "imagen": "src/imagenesProductos/imagen7.jpg"
   },
   {
     "id": 8,
-    "nombre": "Producto 8",
-    "descripcion": "Descripción del Producto 8",
-    "precio": "200",
+    "nombre": "ZAPATILLAS NIKE AIR MAX 90 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "200000",
     "category": "",
-    "imagen": "url_de_imagen_8"
+    "imagen": "src/imagenesProductos/imagen8.jpg"
   },
   {
     "id": 9,
-    "nombre": "Producto 9",
-    "descripcion": "Descripción del Producto 9",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_9"
+    "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 LV8 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "200000",
+    "category": "zapatillas",
+    "imagen": "src/imagenesProductos/imagen9.jpg"
   },
   {
     "id": 10,
-    "nombre": "Producto 10",
-    "descripcion": "Descripción del Producto 10",
-    "precio": "200",
-    "category": "",
-    "imagen": "url_de_imagen_10"
+    "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 DE HOMBRE",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
+    "precio": "18000",
+    "category": "zapatillas",
+    "imagen": "src/imagenesProductos/imagen10.jpg"
   }
 ]
