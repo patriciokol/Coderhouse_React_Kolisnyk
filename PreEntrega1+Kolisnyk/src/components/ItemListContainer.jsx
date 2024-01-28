@@ -8,8 +8,6 @@ const ItemListContainer = () => {
     const [items, setItems] = useState([]);
     const {categoria} = useParams();
 
-    console.log(categoria);
-
     useEffect(() => {
         const promise = new Promise(resolve => {
             setTimeout(() => {

@@ -4,6 +4,7 @@ import ItemListContainer from './components/ItemListContainer'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Nosotros from './components/Nosotros'
 import ErrorPage from './components/ErrorPage'
+import ItemDetailContainer from './components/ItemDetailContainer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +17,7 @@ function App() {
         <Route path="/" element={<ItemListContainer/> }/>
         <Route path="/productos" element={<ItemListContainer/> }/>
         <Route path="/categoria/:categoria" element={<ItemListContainer/> }/>
+        <Route path="/producto/:idProducto" element={<ItemDetailContainer/> }/>
         <Route path="/nosotros" element={<Nosotros />}/>
         <Route path="*" element={<ErrorPage />}/>
       </Routes>
