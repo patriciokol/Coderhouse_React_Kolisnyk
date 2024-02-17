@@ -73,15 +73,6 @@
   },
   {
     "id": 9,
-    "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 LV8 DE HOMBRE",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
-    "precio": "200000",
-    "category": "zapatillas",
-    "imagen": "https://essential.vtexassets.com/arquivos/ids/1221231-1200-auto?v=638382570184300000&width=1200&height=auto&aspect=true",
-    "stock": 10
-  },
-  {
-    "id": 10,
     "nombre": "ZAPATILLAS NIKE AIR FORCE 1 '07 DE HOMBRE",
     "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem aspernatur, exercitationem commodi iste nostrum eum perferendis totam quo aliquid ipsam laudantium nihil sapiente odio at corrupti dolores sed architecto sequi eius suscipit officiis perspiciatis excepturi reiciendis? Culpa totam eum voluptatibus fugit eaque optio distinctio doloremque vero harum id ab illum facere accusantium, eveniet ut eligendi quidem et dignissimos aliquid? Quidem, temporibus aliquid? Quos exercitationem eum fugiat magni laborum deserunt corrupti amet necessitatibus, minus pariatur voluptatum nesciunt officiis assumenda, ad cupiditate ratione eligendi et, perferendis culpa. Qui incidunt inventore impedit neque aspernatur! Blanditiis qui ex iure quis voluptas alias temporibus consectetur.",
     "precio": "18000",

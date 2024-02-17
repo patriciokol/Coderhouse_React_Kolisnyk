@@ -1,4 +1,4 @@
-import CarWidget from "./CartWidget";
+import CartWidget from "./CartWidget";
 import Logo from "./Logo";
 import NavBar from "./NavBar";
 
@@ -13,7 +13,7 @@ const Header = () => {
                     <NavBar />
                 </div>
                 <div className="col-md-2">
-                    <CarWidget />
+                    <CartWidget />
                 </div>
             </div>
         </div>

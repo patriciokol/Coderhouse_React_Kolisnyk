@@ -12,7 +12,6 @@ const ItemDetailContainer = () => {
         const promise = new Promise(resolve => {
             setTimeout(() => {
                 let producto = arrayProductos.find(item => item.id == idProducto)
-                // resolve(categoria ? arrayProductos.filter(item => item.category === categoria) : arrayProductos);
                 resolve(producto);
             }, 2000);
         })

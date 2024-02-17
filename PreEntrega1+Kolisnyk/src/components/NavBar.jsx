@@ -1,6 +1,5 @@
 import { NavLink } from 'react-router-dom';
 import '../components/css/NavBarStyles.css'
-import CarWidget from './CartWidget';
 
 const NavBar = () => {
     return (
